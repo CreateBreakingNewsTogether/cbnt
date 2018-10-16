@@ -1,2 +1,2 @@
 # cbnt
-server code for CBNT
+server code for cbnt.io
